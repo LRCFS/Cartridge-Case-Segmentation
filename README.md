@@ -15,7 +15,7 @@ Set the paths to the training, validation, and testing images and their correspo
 Then, run main_train.py to train the model.
 The NIST dataset and its ground truth annotations are available at the following link.
 
-[NIST dataset](https://discovery.dundee.ac.uk/en/datasets/segmentation-masks-for-breech-and-firing-pin-areas-for-a-nist-dat)
+[Segmentation masks for breech and firing-pin areas for a NIST dataset of firearm cartridge case Images](https://discovery.dundee.ac.uk/en/datasets/segmentation-masks-for-breech-and-firing-pin-areas-for-a-nist-dat)
 
 ---
 
