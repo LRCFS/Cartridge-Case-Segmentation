@@ -23,7 +23,7 @@ The NIST dataset and its ground truth annotations are available at the following
 
 The model is trained on the NIST dataset, and the pretrained model can be found at the following link:
 
-Pretrained Models: You can download [here](https://drive.google.com/drive/folders/1EyY8MzM3SpOniKnLYAbc9dTJpu1wIDCU?usp=sharing)
+Pretrained Models: You can download [here](https://github.com/LRCFS/Cartridge-Case-Segmentation/tree/main/Pre-trained%20Models)
 
 To test your own image, place the image in the Testing-Codes/experiments/Deeplab/test/imgs directory, and place the HDF5 files in the Testing-Codes/hdf5 directory. Additionally, adjust the patch_size and stride values in the segmentation_config.json file to match your image size.
 
