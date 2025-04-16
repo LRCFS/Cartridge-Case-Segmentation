@@ -1,0 +1,11 @@
+{
+  "exp_name": "Deeplab",
+  "patch_height":512,
+  "patch_width": 512,
+  "test_datatype": "png",
+  "height": 512,
+  "width": 512,
+  "stride_height":2,
+  "stride_width": 2,
+  "seg_num": 2
+}

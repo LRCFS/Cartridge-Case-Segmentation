@@ -1,0 +1,23 @@
+{
+  "exp_name": "CCNet",
+  "jpeg_cl":"",
+  "epochs": 100,
+  "batch_size": 6,
+  "patch_height":512,
+  "patch_width": 512,
+  "subsample":1,
+  "total_train": 1227,
+  "total_val": 137,
+  "train_datatype": "png",
+  "train_gt_datatype": "png",
+  "val_datatype": "png",
+  "val_gt_datatype": "png",
+  "test_datatype": "png",
+  "test_gt_datatype": "png",
+  "train_masktype": "png",
+  "height": 512,
+  "width": 512,
+  "stride_height":2,
+  "stride_width": 2,
+  "seg_num": 2
+}
