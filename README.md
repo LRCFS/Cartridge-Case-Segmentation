@@ -21,7 +21,7 @@ The NIST dataset and its ground truth annotations are available at the following
 
 ### Trained Models
 
-The model is trained on the NIST dataset, and the pretrained model can be found at the following link:
+The model is trained on the NIST dataset, and the trained model can be found at the following link:
 
 Trained Models: You can download [here](https://github.com/LRCFS/Cartridge-Case-Segmentation/tree/main/Pre-trained%20Models)
 
